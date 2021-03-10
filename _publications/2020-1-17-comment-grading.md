@@ -1,7 +1,7 @@
 ---
 title: "Comment Grading for Recommendation System"
 collection: projects
-permalink: /publication/comment-grading
+permalink: /projects/comment-grading
 excerpt: 'This is a group project for Google ML Camp 2020.'
 date: 2020-1-17
 ---
