@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiaqi Xi"
   avatar           : "self.jpg"
-  bio              : "Undergraduate student major in Artificial Intelligence. Turing class member at Peking University."
+  bio              : "Undergraduate student major in Artificial Intelligence at Peking University."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -228,22 +228,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 # Sass/SCSS
 sass:
