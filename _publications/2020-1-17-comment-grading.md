@@ -21,4 +21,4 @@ I am responsible for:
 -   help design the recommendation system
 -   do simulation and analysis experiments
 
-[Here](https://github.com/sunyaofeng8/Turiss/blob/master/Turiss_pre.pdf) is our presentation pdf, including illustrations showing our network architecture, recommendation system design, and experiment results. 
+[Here](https://sisi-xi.github.io/files/comment.pdf) is our presentation pdf, including illustrations showing our network architecture, recommendation system design, and experiment results. 
